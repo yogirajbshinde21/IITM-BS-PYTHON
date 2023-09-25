@@ -1,6 +1,6 @@
 # Python for Data Science - IIT Madras BS Degree
 
-Welcome to the repository for Python for Data Science lecture notes and assignments by [Your Name]. This repository contains a collection of weekly lecture notes, covering various aspects of Python programming, as part of the IIT Madras BS Degree program.
+Welcome to the repository for Python for Data Science lecture notes and assignments by [Yogiraj Shinde]. This repository contains a collection of weekly lecture notes, covering various aspects of Python programming, as part of the IIT Madras BS Degree program.
 
 ## About the Repository
 
@@ -39,14 +39,10 @@ If you find errors, have suggestions for improvement, or want to contribute addi
 
 ## License
 
-This repository and its contents are licensed under [Your License](LICENSE) unless otherwise specified.
+This repository and its contents are licensed under [https://github.com/yogirajbshinde21/IITM-BS-PYTHON/blob/main/LICENSE](LICENSE) unless otherwise specified.
 
 ## Acknowledgments
 
 Special thanks to the instructors and staff at IIT Madras for providing this valuable Python for Data Science course.
 
 Happy learning, and best of luck with your data science journey!
-
----
-
-Please replace `[Your Name]` and `[Your License]` with your actual name and the appropriate license you want to use for your repository. You can also customize this README further to include additional information or formatting as needed.
